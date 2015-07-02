@@ -27,6 +27,6 @@
     "glob": "^5.0.10",
     "through2": "^2.0.0",
     "gulp-util": "^3.0.5",
-    "purify-css": "^1.0.8"
+    "purify-css": "purifycss/purifycss#21eb6da1a8cc4defd52f35120bd74f0e7fe68422"
   }
 }
